@@ -1,0 +1,27 @@
+{
+  "name": "mygroceries",
+  "version": "1.0.0",
+  "description": "USSD app to connect grocers and customers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammyOina/myGroceries.git"
+  },
+  "keywords": [
+    "Elarian"
+  ],
+  "author": "SammyOina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SammyOina/myGroceries/issues"
+  },
+  "homepage": "https://github.com/SammyOina/myGroceries#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "elarian": "^0.2.16",
+    "signale": "^1.4.0"
+  }
+}
